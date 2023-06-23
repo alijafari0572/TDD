@@ -1,0 +1,6 @@
+F:\ویدیو اموزشی\TDD\UnitTestProject1\Calculator\bin\Debug\Calculator.dll
+F:\ویدیو اموزشی\TDD\UnitTestProject1\Calculator\bin\Debug\Calculator.pdb
+F:\ویدیو اموزشی\TDD\UnitTestProject1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\ویدیو اموزشی\TDD\UnitTestProject1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\ویدیو اموزشی\TDD\UnitTestProject1\Calculator\obj\Debug\Calculator.dll
+F:\ویدیو اموزشی\TDD\UnitTestProject1\Calculator\obj\Debug\Calculator.pdb
